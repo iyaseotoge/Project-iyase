@@ -26,4 +26,4 @@ It is recommended to use this skin with [Irizz-Theme](https://github.com/Thetan-
 ## アップデート / Update
 新しアップデートを受け取る為に、このレポか[YouTube](https://www.youtube.com/@iyase_otoge)でフォローしてください。
 
-To be notified of new updates please follow this repository or subscribe on my [YouTube Channel](https://www.youtube.com/@iyase_otoge)
+To be notified of new updates please follow this repository or subscribe to my [YouTube Channel](https://www.youtube.com/@iyase_otoge)
