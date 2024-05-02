@@ -9,3 +9,13 @@ Project iyase is a feature-rich skin compatible for soundsphere and osu!
 ※このスキンは[Irizz-Theme](https://github.com/Thetan-ILW/Irizz-Theme)と一緒に使うことをお勧めします。
 
 It is recommended to use this skin with [Irizz-Theme](https://github.com/Thetan-ILW/Irizz-Theme) for the pause and fail bug fix.
+
+
+## 使い方 / Usage
+ノートスキンの変更方法(soundsphereのみ) / Changing Note Skins (soundsphere only)
+```CTRL+S → Skin:iyase → Note Images: mania/mania2/mania3
+```
+
+判定タイプの変更方法(soundsphereのみ) / Changing Judge Type (soundsphere only)
+```WIP
+```
