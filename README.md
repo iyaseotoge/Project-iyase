@@ -3,8 +3,9 @@ Project iyaseはsoundsphereとosu!に対応した機能豊富なスキンです�
 
 Project iyase is a feature-rich skin compatible for soundsphere and osu!
 
-キーモード：1K ~ ∞
-The skin supports any keymode, it can be configured in 
+キーモード / Keymode：1K ~ ∞
+※スキンはどのキーモードにも対応しており、「vsrg.skin.lua」で設定することができます。
+The skin supports any keymode, it can be configured in vsrg.skin.lua: columnNoteImage
 
 ![Skin_Banner](https://github.com/iyaseotoge/Project-iyase/assets/168723509/13a1049a-c195-4469-9281-d67e738eb185)
 
@@ -18,7 +19,7 @@ It is recommended to use this skin with [Irizz-Theme](https://github.com/Thetan-
 ※Do not forget to update soundsphere to the latest version.
 
 
-## 使い方 / Usage (soundsphereのみ / for soundsphere only)
+## 使い方 / Usage
 
 キーモードを追加する方法 / Adding Keymodes
 ```
@@ -35,7 +36,7 @@ Y = 欲しいノートイメージ / Preferred Note Image (1/2/3)
 3 = 黄色ノート (Yellow Notes)
 ```
 
-ノートスキンを変更する方法 / Changing Note Skins
+ノートスキンを変更する方法 / Changing Note Skins (soundsphereのみ / for soundsphere only)
 ```
 CTRL+S → Skin:iyase → iyase skin settings → Note images: mania/mania2/mania3
 
@@ -43,16 +44,19 @@ mania: LNフェードあり (w/Percy Cut)
 mania2: LNフェードあり (w/Percy Cut)
 mania3: LNフェードあり (w/Percy Cut)
 mania4: LNフェードなし (No Percy Cut)
+
+※osu!maniaプレイヤーの方は、「mania」フォルダ内のイメージファイルを入れ替えてください。
+For osu!mania players you can replace the images in "mania" folder.
 ```
 
-判定カウンターを変更する方法 / Changing Judge Counter
+判定カウンターを変更する方法 / Changing Judge Counter (soundsphereのみ / for soundsphere only)
 ```
 設定(Settings) → Scoring → Score system + Judgement
 
 To hide press the 「hide」button
 ```
 
-他のスキン設定 / Other Features
+他のスキン設定 / Other Features (soundsphereのみ / for soundsphere only)
 ```
 Circle progress bar
 Measure line
