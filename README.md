@@ -26,7 +26,7 @@ It is recommended to use this skin with [Irizz-Theme](https://github.com/Thetan-
 
 キーモードを追加する方法 / Adding Keymodes
 ```
-vsrg.skin.lua → columnNoteImage
+Path: vsrg.skin.lua → columnNoteImage
 
 例 / Example:
 [20] = {3, 1, 2, 1, 2, 3, 1, 2, 1, 3, 3, 1, 2, 1, 3, 2, 1, 2, 1, 3}
@@ -40,7 +40,7 @@ Y = 欲しいノートイメージ / Preferred Note Image (1/2/3)
 ```
 レーンを追加する方法 / Adding Lanes
 ```
-vsrg.skin.lua → columnLineWidth
+Path: vsrg.skin.lua → columnLineWidth
 
 例 / Example:
 [8] = {0, 1, 0, 0, 0, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y}
@@ -56,7 +56,7 @@ This will result into something similar to IIDX scratch lanes.
 
 ノートスキンを変更する方法 / Changing Note Skins (soundsphereのみ / for soundsphere only)
 ```
-CTRL+S → Skin:iyase → iyase skin settings → Note images: mania/mania2/mania3
+Path: CTRL+S → Skin:iyase → iyase skin settings → Note images: mania/mania2/mania3
 
 mania: LNフェードあり (w/Percy Cut)
 mania2: LNフェードあり (w/Percy Cut)
@@ -69,12 +69,12 @@ For osu!mania players you can replace the images in "mania" folder.
 
 判定カウンターを変更する方法 / Changing Judge Counter (soundsphereのみ / for soundsphere only)
 ```
-設定(Settings) → Scoring → Score system + Judgement
+Path: 設定(Settings) → Scoring → Score system + Judgement
 
 非表示にしたい場合は、スキンの「hide」ボタンを押してください。
 To hide press the 「hide」button
 
-CTRL+S → Skin:iyase → Judge counter → Hide
+Path: CTRL+S → Skin:iyase → Judge counter → Hide
 ```
 
 他のスキン設定 / Other Features (soundsphereのみ / for soundsphere only)
