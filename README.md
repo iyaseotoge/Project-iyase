@@ -7,7 +7,7 @@ Project iyase is a feature-rich skin compatible for soundsphere and osu!
 
 キーモード / Keymode：1K ~ ∞
 
-※スキンはどのキーモードにも対応しており、「vsrg.skin.lua」で設定することができます。
+※スキンはどのキーモードにも対応しており、「vsrg.skin.lua → columnNoteImage」で設定することができます。
 
 The skin supports any keymode, it can be configured in vsrg.skin.lua: columnNoteImage
 
