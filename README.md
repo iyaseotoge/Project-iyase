@@ -29,7 +29,7 @@ It is recommended to use this skin with [Irizz-Theme](https://github.com/Thetan-
 vsrg.skin.lua → columnNoteImage
 
 例 / Example:
-[20] = {Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y}
+[20] = {3, 1, 2, 1, 2, 3, 1, 2, 1, 3, 3, 1, 2, 1, 3, 2, 1, 2, 1, 3}
 
 説明 / Legend:
 [20] = キーモード (Keys)
