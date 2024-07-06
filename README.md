@@ -14,6 +14,9 @@ It is recommended to use this skin with [Irizz-Theme](https://github.com/Thetan-
 
 ※Do not forget to update soundsphere to the latest version.
 
+
+※変更を適用するには、このボタンを押すことを忘れないでください。
+
 ## 使い方 / Usage
 ノートスキンを変更する方法(soundsphereのみ) / Changing Note Skins (soundsphere only)
 ```
