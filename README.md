@@ -46,13 +46,13 @@ vsrg.skin.lua → columnLineWidth
 [8] = {0, 1, 0, 0, 0, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y}
 これは弐寺のスクラッチレーンを真似た設定です。
 This will result into something similar to IIDX scratch lanes.
-![iidx](https://github.com/iyaseotoge/Project-iyase/assets/168723509/cfd44fee-fe98-46fe-ac6b-4ad37d00af2f)
 
 説明 / Legend:
 [8] = キーモード
 0 = なし
 1 = ライン
 ```
+![iidx](https://github.com/iyaseotoge/Project-iyase/assets/168723509/cfd44fee-fe98-46fe-ac6b-4ad37d00af2f)
 
 ノートスキンを変更する方法 / Changing Note Skins (soundsphereのみ / for soundsphere only)
 ```
