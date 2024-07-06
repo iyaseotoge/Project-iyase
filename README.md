@@ -48,7 +48,7 @@ Circle progress bar position
 Stage images
 osu!PP position
 
-※これらはスキン設定にあります (CTRL+S → Skin:iyase)
+※これはスキン設定にあります (CTRL+S → Skin:iyase)
 These features can be found in the skin's settings.
 ```
 
