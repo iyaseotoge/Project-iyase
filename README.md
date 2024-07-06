@@ -14,7 +14,7 @@ It is recommended to use this skin with [Irizz-Theme](https://github.com/Thetan-
 
 ※Do not forget to update soundsphere to the latest version.
 
-
+![Button](https://github.com/iyaseotoge/Project-iyase/assets/168723509/7768291a-5380-4199-ab18-54110553149c)
 ※変更を適用するには、このボタンを押すことを忘れないでください。
 
 ## 使い方 / Usage
