@@ -18,6 +18,7 @@ It is recommended to use this skin with [Irizz-Theme](https://github.com/Thetan-
 ノートスキンを変更するの方法(soundsphereのみ) / Changing Note Skins (soundsphere only)
 ```
 CTRL+S → Skin:iyase → iyase skin settings → Note images: mania/mania2/mania3
+
 mania: LNフェードあり (w/Percy Cut)
 mania2: LNフェードあり (w/Percy Cut)
 mania3: LNフェードなし (w/Percy Cut)
