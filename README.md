@@ -16,11 +16,13 @@ It is recommended to use this skin with [Irizz-Theme](https://github.com/Thetan-
 
 ## 使い方 / Usage
 ノートスキンの変更方法(soundsphereのみ) / Changing Note Skins (soundsphere only)
-```CTRL+S → Skin:iyase → Note Images: mania/mania2/mania3
+```
+CTRL+S → Skin:iyase → Note Images: mania/mania2/mania3
 ```
 
 判定タイプの変更方法(soundsphereのみ) / Changing Judge Type (soundsphere only)
-```WIP
+```
+WIP
 ```
 
 ## アップデート / Update
