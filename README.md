@@ -17,7 +17,11 @@ It is recommended to use this skin with [Irizz-Theme](https://github.com/Thetan-
 ## 使い方 / Usage
 ノートスキンを変更するの方法(soundsphereのみ) / Changing Note Skins (soundsphere only)
 ```
-CTRL+S → Skin:iyase → Note Images: mania/mania2/mania3
+CTRL+S → Skin:iyase → iyase skin settings → Note images: mania/mania2/mania3
+mania: LNフェードあり (w/Percy Cut)
+mania2: LNフェードあり (w/Percy Cut)
+mania3: LNフェードなし (w/Percy Cut)
+mania4: LNフェードなし (No Percy Cut)
 ```
 
 判定タイプの変更方法(soundsphereのみ) / Changing Judge Type (soundsphere only)
