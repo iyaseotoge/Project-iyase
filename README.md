@@ -21,7 +21,7 @@ CTRL+S → Skin:iyase → iyase skin settings → Note images: mania/mania2/mani
 
 mania: LNフェードあり (w/Percy Cut)
 mania2: LNフェードあり (w/Percy Cut)
-mania3: LNフェードなし (w/Percy Cut)
+mania3: LNフェードあり (w/Percy Cut)
 mania4: LNフェードなし (No Percy Cut)
 ```
 
