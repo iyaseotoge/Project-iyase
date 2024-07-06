@@ -3,11 +3,14 @@ Project iyaseはsoundsphereとosu!に対応した機能豊富なスキンです�
 
 Project iyase is a feature-rich skin compatible for soundsphere and osu!
 
+![Skin_Banner](https://github.com/iyaseotoge/Project-iyase/assets/168723509/13a1049a-c195-4469-9281-d67e738eb185)
+
 キーモード / Keymode：1K ~ ∞
+
 ※スキンはどのキーモードにも対応しており、「vsrg.skin.lua」で設定することができます。
+
 The skin supports any keymode, it can be configured in vsrg.skin.lua: columnNoteImage
 
-![Skin_Banner](https://github.com/iyaseotoge/Project-iyase/assets/168723509/13a1049a-c195-4469-9281-d67e738eb185)
 
 ## おすすめ / Recommendation
 PauseとFail画面のバグを修正するために、このスキンは[Irizz-Theme](https://github.com/Thetan-ILW/Irizz-Theme)と一緒に使うことをお勧めします。
