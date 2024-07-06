@@ -24,7 +24,7 @@ It is recommended to use this skin with [Irizz-Theme](https://github.com/Thetan-
 
 ## 使い方 / Usage
 
-キーモードを追加する方法 / Adding Keymodes
+**キーモードを追加する方法 / Adding Keymodes**
 ```
 Path: vsrg.skin.lua → columnNoteImage
 
@@ -38,7 +38,7 @@ Y = 欲しいノートイメージ / Preferred Note Image (1/2/3)
 2 = 青ノート (Blue Notes)
 3 = 黄色ノート (Yellow Notes)
 ```
-レーンを追加する方法 / Adding Lanes
+**レーンを追加する方法 / Adding Lanes**
 ```
 Path: vsrg.skin.lua → columnLineWidth
 
@@ -54,7 +54,7 @@ This will result into something similar to IIDX scratch lanes.
 ```
 ![iidx](https://github.com/iyaseotoge/Project-iyase/assets/168723509/cfd44fee-fe98-46fe-ac6b-4ad37d00af2f)
 
-ノートスキンを変更する方法 / Changing Note Skins (soundsphereのみ / for soundsphere only)
+**ノートスキンを変更する方法 / Changing Note Skins** (soundsphereのみ / for soundsphere only)
 ```
 Path: CTRL+S → Skin:iyase → iyase skin settings → Note images: mania/mania2/mania3
 
@@ -66,8 +66,19 @@ mania4: LNフェードなし (No Percy Cut)
 ※osu!maniaプレイヤーの方は、「mania」フォルダ内のイメージファイルを入れ替えてください。
 For osu!mania players you can replace the images in "mania" folder.
 ```
+mania
+![mania](https://github.com/iyaseotoge/Project-iyase/assets/168723509/5dcd3522-1b77-4efc-bd76-95c411854050)
 
-判定カウンターを変更する方法 / Changing Judge Counter (soundsphereのみ / for soundsphere only)
+mania2
+![mania2](https://github.com/iyaseotoge/Project-iyase/assets/168723509/88a0626e-a85f-438a-a88e-03d7d94daa9e)
+
+mania3
+![mania3](https://github.com/iyaseotoge/Project-iyase/assets/168723509/873fc4da-210b-4462-9571-99b97a71ab28)
+
+mania4
+![mania4](https://github.com/iyaseotoge/Project-iyase/assets/168723509/b40fbe9c-020c-46cf-ab48-578fb95570de)
+
+**判定カウンターを変更する方法 / Changing Judge Counter** (soundsphereのみ / for soundsphere only)
 ```
 Path: 設定(Settings) → Scoring → Score system + Judgement
 
@@ -77,7 +88,7 @@ To hide press the 「hide」button
 Path: CTRL+S → Skin:iyase → Judge counter → Hide
 ```
 
-他のスキン設定 / Other Features (soundsphereのみ / for soundsphere only)
+**他のスキン設定 / Other Features** (soundsphereのみ / for soundsphere only)
 ```
 Circle progress bar
 Measure line
