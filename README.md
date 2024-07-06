@@ -15,7 +15,7 @@ It is recommended to use this skin with [Irizz-Theme](https://github.com/Thetan-
 ※Do not forget to update soundsphere to the latest version.
 
 ## 使い方 / Usage
-ノートスキンを変更するの方法(soundsphereのみ) / Changing Note Skins (soundsphere only)
+ノートスキンを変更する方法(soundsphereのみ) / Changing Note Skins (soundsphere only)
 ```
 CTRL+S → Skin:iyase → iyase skin settings → Note images: mania/mania2/mania3
 
@@ -25,9 +25,30 @@ mania3: LNフェードあり (w/Percy Cut)
 mania4: LNフェードなし (No Percy Cut)
 ```
 
-判定タイプの変更方法(soundsphereのみ) / Changing Judge Type (soundsphere only)
+判定カウンターを変更する方法(soundsphereのみ) / Changing Judge Counter (soundsphere only)
 ```
-WIP
+設定(Settings) → Scoring → Score system + Judgement
+
+To hide press the 「hide」button
+```
+
+他のスキン設定 / Other Features
+※これらはスキン設定にあります (CTRL+S → Skin:iyase)
+These features can be found in the skin's settings.
+```
+Circle progress bar
+Measure line
+Show lightings
+Hide UI
+Judge animation
+Accuracy
+Hit error
+Judge counter
+Keyboard overlay
+Early/Late position
+Circle progress bar position
+Stage images
+osu!PP position
 ```
 
 ## アップデート / Update
