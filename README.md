@@ -85,7 +85,7 @@ These features can be found in the skin's settings.
 ## アップデート / Update
 新しアップデートを受け取る為に、このレポか[YouTube](https://www.youtube.com/@iyase_otoge)でフォローしてください。
 
-[iyaseの音ゲーディスコ鯖](https://discord.gg/sxNMa5eWD3)に入ることもできます。ニュース以外では、音ゲーのガイドチャンネルなどがたくさんあります。
+[iyaseの音ゲーディスコ鯖](https://discord.gg/sxNMa5eWD3)に入ることもできます。ニュース以外では、音ゲーのガイドチャンネルなどが沢山あります。
 
 To be notified of new updates please follow this repository or subscribe to my [YouTube Channel](https://www.youtube.com/@iyase_otoge)
 Alternatively, you can also join my [Discord server](https://discord.gg/sxNMa5eWD3) which contains not only skin news but things such as rhythm game guides for every rhythm game and other improvement tools.
