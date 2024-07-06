@@ -33,8 +33,6 @@ To hide press the 「hide」button
 ```
 
 他のスキン設定 / Other Features
-※これらはスキン設定にあります (CTRL+S → Skin:iyase)
-These features can be found in the skin's settings.
 ```
 Circle progress bar
 Measure line
@@ -49,6 +47,9 @@ Early/Late position
 Circle progress bar position
 Stage images
 osu!PP position
+
+※これらはスキン設定にあります (CTRL+S → Skin:iyase)
+These features can be found in the skin's settings.
 ```
 
 ## アップデート / Update
