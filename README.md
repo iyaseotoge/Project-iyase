@@ -71,7 +71,10 @@ For osu!mania players you can replace the images in "mania" folder.
 ```
 設定(Settings) → Scoring → Score system + Judgement
 
+非表示にしたい場合は、スキンの「hide」ボタンを押してください。
 To hide press the 「hide」button
+
+CTRL+S → Skin:iyase → Judge counter → Hide
 ```
 
 他のスキン設定 / Other Features (soundsphereのみ / for soundsphere only)
