@@ -44,7 +44,7 @@ Accuracy
 Hit error
 Judge counter
 Keyboard overlay
-Early/Late position
+Early/Late (-/+) position
 Circle progress bar position
 Stage images
 osu!PP position
