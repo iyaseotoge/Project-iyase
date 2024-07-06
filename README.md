@@ -43,7 +43,7 @@ Y = 欲しいノートイメージ / Preferred Note Image (1/2/3)
 Path: vsrg.skin.lua → columnLineWidth
 
 例 / Example:
-[8] = {0, 1, 0, 0, 0, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y}
+[8] = {0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 これは弐寺のスクラッチレーンを真似た設定です。
 This will result into something similar to IIDX scratch lanes.
 
