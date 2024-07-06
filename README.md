@@ -66,16 +66,16 @@ mania4: LNフェードなし (No Percy Cut)
 ※osu!maniaプレイヤーの方は、「mania」フォルダ内のイメージファイルを入れ替えてください。
 For osu!mania players you can replace the images in "mania" folder.
 ```
-mania
+**Note image:** mania
 ![mania](https://github.com/iyaseotoge/Project-iyase/assets/168723509/5dcd3522-1b77-4efc-bd76-95c411854050)
 
-mania2
+**Note image:** mania2
 ![mania2](https://github.com/iyaseotoge/Project-iyase/assets/168723509/88a0626e-a85f-438a-a88e-03d7d94daa9e)
 
-mania3
+**Note image:** mania3
 ![mania3](https://github.com/iyaseotoge/Project-iyase/assets/168723509/873fc4da-210b-4462-9571-99b97a71ab28)
 
-mania4
+**Note image:** mania4
 ![mania4](https://github.com/iyaseotoge/Project-iyase/assets/168723509/b40fbe9c-020c-46cf-ab48-578fb95570de)
 
 **判定カウンターを変更する方法 / Changing Judge Counter** (soundsphereのみ / for soundsphere only)
