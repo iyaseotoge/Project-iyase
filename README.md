@@ -15,7 +15,7 @@ It is recommended to use this skin with [Irizz-Theme](https://github.com/Thetan-
 ※Do not forget to update soundsphere to the latest version.
 
 ## 使い方 / Usage
-ノートスキンの変更方法(soundsphereのみ) / Changing Note Skins (soundsphere only)
+ノートスキンを変更するの方法(soundsphereのみ) / Changing Note Skins (soundsphere only)
 ```
 CTRL+S → Skin:iyase → Note Images: mania/mania2/mania3
 ```
