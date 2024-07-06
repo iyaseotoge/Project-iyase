@@ -3,6 +3,9 @@ Project iyaseはsoundsphereとosu!に対応した機能豊富なスキンです�
 
 Project iyase is a feature-rich skin compatible for soundsphere and osu!
 
+キーモード：1K ~ ∞
+The skin supports any keymode, it can be configured in 
+
 ![Skin_Banner](https://github.com/iyaseotoge/Project-iyase/assets/168723509/13a1049a-c195-4469-9281-d67e738eb185)
 
 ## おすすめ / Recommendation
@@ -16,6 +19,22 @@ It is recommended to use this skin with [Irizz-Theme](https://github.com/Thetan-
 
 
 ## 使い方 / Usage (soundsphereのみ / for soundsphere only)
+
+キーモードを追加する方法 / Adding Keymodes
+```
+vsrg.skin.lua → columnNoteImage
+
+例 / Example:
+[20] = {Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y}
+
+説明 / Legend:
+[20] = 20キー (Keys)
+Y = 欲しいノートイメージ / Preferred Note Image (1/2/3)
+1 = 白ノート (White Notes)
+2 = 青ノート (Blue Notes)
+3 = 黄色ノート (Yellow Notes)
+```
+
 ノートスキンを変更する方法 / Changing Note Skins
 ```
 CTRL+S → Skin:iyase → iyase skin settings → Note images: mania/mania2/mania3
