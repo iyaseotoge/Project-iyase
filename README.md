@@ -32,7 +32,7 @@ mania4: LNフェードなし (No Percy Cut)
 To hide press the 「hide」button
 ```
 
-他のスキン設定 / Other Features
+他のスキン設定(soundsphereのみ) / Other Features (soundsphere only)
 ```
 Circle progress bar
 Measure line
