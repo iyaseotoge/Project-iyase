@@ -84,6 +84,7 @@ These features can be found in the skin's settings.
 
 ## アップデート / Update
 新しアップデートを受け取る為に、このレポか[YouTube](https://www.youtube.com/@iyase_otoge)でフォローしてください。
+
 [iyaseの音ゲーディスコ鯖](https://discord.gg/sxNMa5eWD3)に入ることもできます。音ゲーのガイドチャンネルなどがたくさんあります。
 
 To be notified of new updates please follow this repository or subscribe to my [YouTube Channel](https://www.youtube.com/@iyase_otoge)
