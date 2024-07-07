@@ -88,6 +88,17 @@ To hide press the 「hide」button
 Path: CTRL+S → Skin:iyase → Judge counter → Hide
 ```
 
+**プレイスタート音を変更する方法 / Customizing Start Sound** (soundsphereのみ / for soundsphere only)
+```
+Path: soundsphere\moddedgame\Irizz-Theme\irizz\ui_sounds\start
+soundsphere → UI → Start Sound: 欲しい音 (Desired sound)
+
+欲しい音(.WAV)ファイルを「start」フォルダに入れてゲーム中のstart soundで欲しい音を選んでください。
+Place your desired sound in the "start" folder, it must be in .wav format. Then select your sound ingame at "UI Start sound"
+
+irizz theme must be installed.
+```
+
 **他のスキン設定 / Other Features** (soundsphereのみ / for soundsphere only)
 ```
 Circle progress bar
