@@ -125,6 +125,7 @@ These features can be found in the skin's settings.
 
 ## 貢献者 / Contributors
 Retsukiya - LNデザイナーと品質管理 (LN Designer and Quality Control)
+
 Thetan - プログラマーとヘルパー (Programmer and Helper)
 
 ## アップデート / Update
