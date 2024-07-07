@@ -80,7 +80,7 @@ For osu!mania players you can replace the images in "mania" folder.
 
 **判定カウンターを変更する方法 / Changing Judge Counter** (soundsphereのみ / for soundsphere only)
 ```
-Path: 設定(Settings) → Scoring → Score system + Judgement
+Path: 設定(Settings) → Scoring → Score system (+Judgement)
 
 非表示にしたい場合は、スキンの「hide」ボタンを押してください。
 To hide press the 「hide」button
