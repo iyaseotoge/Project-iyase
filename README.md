@@ -150,7 +150,7 @@ Thetan → プログラマーとヘルパー (Programmer and Helper)
 To be notified of new updates please follow this repository or subscribe to my [YouTube Channel](https://www.youtube.com/@iyase_otoge)
 Alternatively, you can also join my [Discord server](https://discord.gg/sxNMa5eWD3) which contains not only skin news but things such as rhythm game guides for every rhythm game and other improvement tools.
 
-## Supporter Package
+## サポーター・パッケージ / Supporter Package
 プロジェクトiyaseを気に入って応援してくださる方は、ぜひサポーターパッケージをご購入ください。
 
 ※無料版には含まれていない追加ファイルが含まれています。
