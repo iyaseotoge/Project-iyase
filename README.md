@@ -1,7 +1,6 @@
 # Project iyase
 <p align="center">
 Project iyaseはsoundsphereとosu!に対応した機能豊富なスキンです！
-
 Project iyase is a feature-rich skin compatible for soundsphere and osu!
 </p>
 
