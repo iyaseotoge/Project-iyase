@@ -149,3 +149,16 @@ Thetan → プログラマーとヘルパー (Programmer and Helper)
 
 To be notified of new updates please follow this repository or subscribe to my [YouTube Channel](https://www.youtube.com/@iyase_otoge)
 Alternatively, you can also join my [Discord server](https://discord.gg/sxNMa5eWD3) which contains not only skin news but things such as rhythm game guides for every rhythm game and other improvement tools.
+
+## Supporter Package
+プロジェクトiyaseを気に入って応援してくださる方は、ぜひサポーターパッケージをご購入ください。
+※無料版には含まれていない追加ファイルが含まれています。
+If you like Project iyase and would like to support me you can purchase the supporter package below. It contains additional files that are not included in the free version.
+
+[Supporter Package #1](https://www.patreon.com/iyase_otoge/shop/project-iyase-v2-3-supporter-package-1-271381?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link)
+
+[Supporter Package #2](https://www.patreon.com/iyase_otoge/shop/project-iyase-v2-3-supporter-package-2-271403?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link)
+
+[Supporter Package #3](https://www.patreon.com/iyase_otoge/shop/project-iyase-v2-3-supporter-package-3-271407?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link)
+
+[Supporter Package #4](https://www.patreon.com/iyase_otoge/shop/project-iyase-v2-3-supporter-package-4-271416?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link)
