@@ -29,6 +29,8 @@ It is recommended to use this skin with [Irizz-Theme](https://github.com/Thetan-
 
 **アイコンを除去する方法 / Removing profile icon**
 
+![pfp icon](https://github.com/user-attachments/assets/b926f8d5-c339-44c9-ba7a-29c08474c346)
+
 ```
 Path: iyase/Extra/selection-mode/Clean
 
