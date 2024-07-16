@@ -27,6 +27,15 @@ It is recommended to use this skin with [Irizz-Theme](https://github.com/Thetan-
 
 ## 使い方 / Usage
 
+**アイコンを除去する方法 / Removing profile icon**
+
+```
+Path: iyase/Extra/selection-mode/Clean
+
+「selection-mode」ファイルを置き換えてください。
+Replace "selection-mode" file.
+```
+
 **キーモードを追加する方法 / Adding Keymodes**
 ```
 Path: vsrg.skin.lua → columnNoteImage
