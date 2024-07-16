@@ -1,0 +1,5 @@
+shiburin.wav
+\soundsphere\moddedgame\Irizz-Theme\irizz\ui_sounds\start
+
+avatar.png, game_icon.png
+soundsphere\moddedgame\Irizz-Theme\irizz

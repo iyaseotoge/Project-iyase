@@ -1,0 +1,82 @@
+local JustConfig = require("sphere.JustConfig")
+local imgui = require("imgui")
+--local imgui = require("thetan.irizz.imgui") -- For consistency with Irizz theme. Will crash the game if Irizz does not installed.
+local just = require("just")
+
+local config = JustConfig()
+
+config.data = --[[data]] {
+	accuracy = "osu!legacy OD8",
+	autosave = true,
+	columnStart = 130,
+	comboPosition = 207,
+	hitposition = 450,
+	judgeCountX = 29,
+	judgeCountY = 260,
+	judgePosition = 175,
+	measureLine = false,
+	noteImages = "mania2"
+} --[[/data]]
+
+local accuracyList = {
+	"osu!mania OD8",
+	"osu!mania OD9",
+	"osu!mania OD10",
+	"osu!legacy OD7",
+	"osu!legacy OD8",
+	"osu!legacy OD9",
+	"osu!legacy OD10",
+	"LR2 Normal",
+	"LR2 Hard",
+}
+
+local noteImagesList = {
+	"mania",
+	"mania2",
+	"mania3",
+}
+
+local function rainbow(x) -- for fun
+	local r = math.abs(math.sin(x * 2 * math.pi))
+	local g = math.abs(math.sin((x + 1 / 3) * 2 * math.pi))
+	local b = math.abs(math.sin((x + 2 / 3) * 2 * math.pi))
+	local a = 1
+	return { r, g, b, a }
+end
+
+function config:draw(w, h)
+	local data = self.data
+
+	just.indent(10)
+	love.graphics.setColor(rainbow(love.timer.getTime() / 4)) -- remove this line if you don't want to see rainbow text
+	just.text("Change this text in `vsrg.config.lua` to whatever you want", w)
+	love.graphics.setColor({ 1, 1, 1, 1 }) -- and this line
+
+	imgui.setSize(w, h, w / 2, 55)
+	data.measureLine = imgui.checkbox("measureLine", data.measureLine, "Measure Line / Barline")
+
+	data.hitposition = imgui.slider1("hitposition", data.hitposition, "%d", 240, 480, 1, "Hit position")
+	data.columnStart = imgui.slider1("columnStart", data.columnStart, "%d", 0, 480, 1, "Column start")
+	data.noteImages = imgui.combo("noteImages", data.noteImages, noteImagesList, nil, "Note images")
+
+	imgui.separator()
+	data.comboPosition = imgui.slider1("comboPosition", data.comboPosition, "%d", 0, 480, 1, "Combo position")
+	data.judgePosition = imgui.slider1("judgePosition", data.judgePosition, "%d", 0, 480, 1, "Judge position")
+
+	imgui.separator()
+	data.judgeCountX = imgui.slider1("judgeCountX", data.judgeCountX, "%d", -480, 480, 1, "Judge count X")
+	data.judgeCountY = imgui.slider1("judgeCountY", data.judgeCountY, "%d", -480, 480, 1, "Judge count Y")
+
+	imgui.separator()
+	data.accuracy = imgui.combo("accuracy", data.accuracy, accuracyList, nil, "Accuracy")
+
+	imgui.separator()
+	if imgui.button("Write config file", "Save") then
+		self:write()
+	end
+	just.sameline()
+	love.graphics.translate(5, 8)
+	just.text("Don't forget to press this button.")
+end
+
+return config
