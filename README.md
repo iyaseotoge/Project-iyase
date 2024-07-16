@@ -152,6 +152,7 @@ Alternatively, you can also join my [Discord server](https://discord.gg/sxNMa5eW
 
 ## Supporter Package
 プロジェクトiyaseを気に入って応援してくださる方は、ぜひサポーターパッケージをご購入ください。
+
 ※無料版には含まれていない追加ファイルが含まれています。
 
 If you like Project iyase and would like to support me you can purchase the supporter package below. It contains additional files that are not included in the free version.
