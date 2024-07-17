@@ -13,6 +13,7 @@ Project iyaseはsoundsphereとosu!に対応した機能豊富なスキンです�
 ![Skin_Banner](https://github.com/iyaseotoge/Project-iyase/assets/168723509/13a1049a-c195-4469-9281-d67e738eb185)
 
 無限（∞）キーをサポートする一番先進的なSoundsphereスキンです。
+
 The most advanced Soundsphere skin that supports infinite (∞) keys.
 
 キーモード / Keymode：1K ~ ∞
