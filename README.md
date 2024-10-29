@@ -172,3 +172,8 @@ If you like Project iyase and would like to support me you can purchase the supp
 [Supporter Package #3](https://www.patreon.com/iyase_otoge/shop/project-iyase-v2-3-supporter-package-3-271407?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link) ($15)
 
 [Supporter Package #4](https://www.patreon.com/iyase_otoge/shop/project-iyase-v2-3-supporter-package-4-271416?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link) ($20)
+
+## Terms of Use
+By downloading my skin you agree with the following terms.
+1. You should not reupload my skin and claim it as your own. Reuploading is fine if it is for archiving purposes, don't forget to give credit.
+2. If you are going to use it in your self-made game let me know first.
